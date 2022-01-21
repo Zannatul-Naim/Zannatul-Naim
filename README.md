@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Zannatul-Naim/Zannatul-Naim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I'm Naim
 
-Here are some ideas to get you started:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zannatul-Naim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/naim33208)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17947102)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zannatul-Naim&show_icons=true?theme=dark)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zannatul-Naim&layout=compact)](https://github.com/Zannatul-Naim/Zannatul-Naim)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zannatul-Naim)  
+
+![GitHub metrics](https://metrics.lecoq.io/Zannatul-Naim)  
+
+![Profile views](https://gpvc.arturio.dev/Zannatul-Naim)  
