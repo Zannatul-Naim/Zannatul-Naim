@@ -9,6 +9,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zannatul-Naim)  
 
-![GitHub metrics](https://metrics.lecoq.io/Zannatul-Naim)  
+![GitHub metrics](https://metrics.lecoq.io/Zannatul-Naim)
 
 ![Profile views](https://gpvc.arturio.dev/Zannatul-Naim)  
