@@ -10,6 +10,9 @@
 
 [![Vaidhyanathan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zannatul-Naim&theme=react-dark&hide_border=true&area=true)](https://git.io/Zannatul-Naim)
 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zannatul-Naim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)     
+
 ![GitHub metrics](https://metrics.lecoq.io/Zannatul-Naim)
 
 ![Profile views](https://gpvc.arturio.dev/Zannatul-Naim)  
