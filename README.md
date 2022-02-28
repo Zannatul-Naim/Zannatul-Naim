@@ -12,7 +12,7 @@
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zannatul-Naim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)     
-
+<!--  Metrics Bar -->
 ![GitHub metrics](https://metrics.lecoq.io/Zannatul-Naim)
-
+<!--  Profile Views -->
 ![Profile views](https://gpvc.arturio.dev/Zannatul-Naim)  
