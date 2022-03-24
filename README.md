@@ -8,7 +8,7 @@
   <img height="140px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zannatul-Naim&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
   </p>
 
-[![Vaidhyanathan's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zannatul-Naim&theme=react-dark&hide_border=true&area=true)](https://git.io/Zannatul-Naim)
+[![Naim's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zannatul-Naim&theme=react-dark&hide_border=true&area=true)](https://git.io/Zannatul-Naim)
 
 <!--  CONTRIBUTION AND STREAK BLOCK -->
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zannatul-Naim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)     
