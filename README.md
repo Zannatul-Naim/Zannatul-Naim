@@ -8,15 +8,21 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111646.png' alt='telegram' height='40'>](https://t.me/zannatulnaim09)
 [<img src='https://cdn-icons-png.flaticon.com/512/3670/3670124.png' alt='facebook' height='40'>](https://www.facebook.com/naim33208)
 
+
 <p align=center>
  <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=Zannatul-Naim&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
   <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zannatul-Naim&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
   </p>
 
-[![Naim's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zannatul-Naim&theme=react-dark&hide_border=true&area=true)](https://git.io/Zannatul-Naim)
-
 <!--  CONTRIBUTION AND STREAK BLOCK -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zannatul-Naim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)     
+
+<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zannatul-Naim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)  -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zannatul-Naim&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+<!-- Trophy -->
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Zannatul-Naim) -->
+    
 <!--  Metrics Bar -->
 ![GitHub metrics](https://metrics.lecoq.io/Zannatul-Naim)
 <!--  Profile Views -->
