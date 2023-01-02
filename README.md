@@ -8,17 +8,18 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111646.png' alt='telegram' height='40'>](https://t.me/zannatulnaim09)
 [<img src='https://cdn-icons-png.flaticon.com/512/3670/3670124.png' alt='facebook' height='40'>](https://www.facebook.com/naim33208)
 
-
-<p align=center>
- <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=Zannatul-Naim&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-  <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zannatul-Naim&layout=compact&hide_title=true&hide_border=true&theme=tokyonight&count_private=true" />
-  </p>
-
-<!--  CONTRIBUTION AND STREAK BLOCK -->
-
-<!--  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zannatul-Naim&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)  -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zannatul-Naim&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<div align="center">
+   <table>
+   <h1 align="center">Github Stats</h1>
+       <tr>
+       <td><img alt="Zannatul-Naim :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=Zannatul-Naim&theme=nightowl&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+       <td><img alt="Zannatul-Naim :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zannatul-Naim&langs_count=8&theme=nightowl&layout=compact&hide=html&hide_border=true"> </td>
+     </tr>
+     <tr>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Zannatul-Naim&theme=nightowl&hide_border=true">  </td>
+     </tr>
+   </table>
+</div>
 
 <!-- Trophy -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Zannatul-Naim) -->
