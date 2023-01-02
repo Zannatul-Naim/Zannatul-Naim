@@ -27,3 +27,5 @@
 ![GitHub metrics](https://metrics.lecoq.io/Zannatul-Naim)
 <!--  Profile Views -->
 ![Profile views](https://gpvc.arturio.dev/Zannatul-Naim)  
+
+<img align="center" src="https://profile-counter.glitch.me/{Zannatul-Naim}/count.svg" /> 
