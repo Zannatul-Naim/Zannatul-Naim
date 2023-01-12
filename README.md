@@ -25,7 +25,7 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Zannatul-Naim) -->
     
 <!--  Metrics Bar -->
-![GitHub metrics](https://metrics.lecoq.io/Zannatul-Naim)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/Zannatul-Naim) -->
 <!--  Profile Views -->
 ![Profile views](https://gpvc.arturio.dev/Zannatul-Naim)  
 
