@@ -1,6 +1,7 @@
 
 ### Hi there 👋, I'm Naim
 
+*Let's connect with...*
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/zannatulnaim09)
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/Zannatul-Naim)
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17947102)
@@ -8,7 +9,7 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111646.png' alt='telegram' height='40'>](https://t.me/zannatulnaim09)
 [<img src='https://cdn-icons-png.flaticon.com/512/3670/3670124.png' alt='facebook' height='40'>](https://www.facebook.com/naim33208)
 
-<div align="center">
+<!-- <div align="center">
    <table>
    <h1 align="center">Github Stats</h1>
        <tr>
@@ -19,7 +20,15 @@
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Zannatul-Naim&theme=nightowl&hide_border=true">  </td>
      </tr>
    </table>
-</div>
+</div> -->
+
+<div align="center">
+   <h1 align="center">Github Stats</h1>
+  <a href="https://github.com/Zannatul-Naim">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zannatul-Naim&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zannatul-Naim&layout=compact&langs_count=6&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zannatul-Naim&layout=compact&langs_count=6&theme=nightowl"/>
+ </div>
 
 <!-- Trophy -->
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Zannatul-Naim) -->
