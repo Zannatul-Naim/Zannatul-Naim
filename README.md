@@ -17,8 +17,21 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zannatul-Naim&layout=compact&langs_count=6&theme=nightowl"/>
  </div>
 
-<!-- Trophy -->
- <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Zannatul-Naim) -->
+<!-- Trophy 
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Zannatul-Naim) 
 
 <img align="center" src="https://profile-counter.glitch.me/{Zannatul-Naim}/count.svg" /> 
 
+-->
+
+## Profile Overview
+
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zannatul-naim&theme=nightowl)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zannatul-naim&theme=nightowl) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zannatul-naim&theme=nightowl)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zannatul-naim&theme=nightowl) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zannatul-naim&theme=nightowl&utcOffset=6)
+
+</div>
