@@ -9,6 +9,9 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111646.png' alt='telegram' height='40'>](https://t.me/zannatulnaim09)
 [<img src='https://cdn-icons-png.flaticon.com/512/3670/3670124.png' alt='facebook' height='40'>](https://www.facebook.com/naim33208)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zannatul-naim&label=%20👁️&color=0e75b6&style=flat-square" alt="naim" height=30 /> </p>
+
+
 <div align="center">
    <h1 align="center">Github Stats</h1>
   <a href="https://github.com/Zannatul-Naim">
